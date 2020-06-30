@@ -9,5 +9,5 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we were asked to build a predictive modeles that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 
-
+%%html
 <iframe src="https://public.tableau.com/views/ML_embarked/Sheet3?:language=en&:display_count=y&:origin=viz_share_link?:embed=yes&:display_count=yes" width = '650' height = '450'></iframe>

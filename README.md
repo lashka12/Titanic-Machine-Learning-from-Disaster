@@ -1,7 +1,6 @@
 # Titanic-Machine-Learning-from-Disaster 🛳️ 
 https://www.kaggle.com/c/titanic
 
-@samark21
 **The Challenge**
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.

@@ -10,3 +10,4 @@ In this challenge, we were asked to build a predictive modeles that answers the 
 
 
 
+<iframe src="https://public.tableau.com/views/ML_embarked/Sheet3?:language=en&:display_count=y&:origin=viz_share_link?:embed=yes&:display_count=yes" width = '650' height = '450'></iframe>
